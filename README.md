@@ -44,4 +44,4 @@ make clean
 - GCC/Clang with `-O3` optimization recommended
 
 ## Example benchmark:
-<img width="363" height="258" alt="image" src="https://github.com/user-attachments/assets/ca27875d-0d1d-480f-841e-46b0ea96f4e3" />
+<img width="355" height="251" alt="image" src="https://github.com/user-attachments/assets/552ebe40-6c2b-4187-ab5c-d67d6607d1bc" />
