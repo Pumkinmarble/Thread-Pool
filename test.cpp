@@ -11,7 +11,7 @@ void test_basic_submission() {
     auto future = pool.submit([]() { return 42; });
     assert(future.get() == 42);
     
-    std::cout << "PASSED\n";
+    std::cout << " PASSED\n";
 }
 
 void test_multiple_tasks() {
